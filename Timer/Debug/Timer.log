@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Timer.cpp
+C:\Users\asr96\source\repos\Timer\Timer\Timer.cpp(121,13): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  Timer.vcxproj -> C:\Users\asr96\source\repos\Timer\Debug\Timer.exe
